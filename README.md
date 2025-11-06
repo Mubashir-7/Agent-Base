@@ -77,13 +77,6 @@ basic-ai-agent/
 └── README.md
 🔮 Roadmap
 
-
-
-
-📜 License
-
-MIT License © 2025 [Your Name]
-
 ⭐ Contribute
 
 Pull requests are welcome!
